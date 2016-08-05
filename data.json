@@ -1,0 +1,10 @@
+[
+  {
+    "userId": "001",
+    "userName": "韩母",
+    "childs":[
+        {"childId":"001","child1Name":"韩梅梅","isBind":"0","cardNum":" "},
+        {"childId":"002","child1Name":"李明","isBind":"1","cardNum":"12055211"}
+    ]
+  }
+]
