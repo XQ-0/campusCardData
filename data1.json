@@ -1,25 +1,25 @@
 [
   {"childId":"001",
-    "msg":[
+    "msg":{
     "childName":"韩梅梅",
     "isBind":"0",
     "cardNum":" ",
-    "childImg":"http://shp.qpic.cn/weixinsrc_pic/pScBR7sbqjOBJomcuvVJ6iacVrbMJaoJZkFUIq4nzQZUIqzTKziam7ibg/"]
+    "childImg":"http://shp.qpic.cn/weixinsrc_pic/pScBR7sbqjOBJomcuvVJ6iacVrbMJaoJZkFUIq4nzQZUIqzTKziam7ibg/"}
   },
   
    {"childId":"002",
-    "msg":[
+    "msg":{
     "childName":"李明",
     "isBind":"1",
     "cardNum":"12055211",
-    "childImg":"http://shp.qpic.cn/weixinsrc_pic/pScBR7sbqjOBJomcuvVJ6iacVrbMJaoJZkFUIq4nzQZUIqzTKziam7ibg/"]
+    "childImg":"http://shp.qpic.cn/weixinsrc_pic/pScBR7sbqjOBJomcuvVJ6iacVrbMJaoJZkFUIq4nzQZUIqzTKziam7ibg/"}
   },
    {"childId":"003",
-    "msg":[
+    "msg":{
     "childName":"王三",
     "isBind":"1",
     "cardNum":"12055213",
-    "childImg":"http://shp.qpic.cn/weixinsrc_pic/pScBR7sbqjOBJomcuvVJ6iacVrbMJaoJZkFUIq4nzQZUIqzTKziam7ibg/"]
+    "childImg":"http://shp.qpic.cn/weixinsrc_pic/pScBR7sbqjOBJomcuvVJ6iacVrbMJaoJZkFUIq4nzQZUIqzTKziam7ibg/"}
   }
  
 
