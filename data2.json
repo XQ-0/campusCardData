@@ -1,10 +1,12 @@
-[
-  {
-    "userId": "001",
-    "userName": "韩母",
-    "isbind":"1",
-    "childs":[
-        {"childId":"001","childName":"韩梅梅","isBind":"0","cardNum":" ","childImg":"http://shp.qpic.cn/weixinsrc_pic/pScBR7sbqjOBJomcuvVJ6iacVrbMJaoJZkFUIq4nzQZUIqzTKziam7ibg/"}
+{
+    "code":"0",
+    "rs":[
+        {
+            "userId":"330101-S000004-S20160297",
+            "userName":"张家维哥哥",
+            "userType":"学生",
+            "classId":"330101-S000004-Y0002-20160001",
+            "className":"高中2014级1班"
+        }
     ]
-  }
-]
+}
