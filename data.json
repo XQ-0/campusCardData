@@ -1,12 +1,26 @@
-[
-  {
-    "userId": "001",
-    "userName": "韩母",
-    "isbind":"1",
-    "childs":[
-        {"childId":"001","childName":"韩梅梅","isBind":"0","cardNum":" ","childImg":"http://shp.qpic.cn/weixinsrc_pic/pScBR7sbqjOBJomcuvVJ6iacVrbMJaoJZkFUIq4nzQZUIqzTKziam7ibg/"},
-        {"childId":"002","childName":"李明","isBind":"1","cardNum":"12055211","childImg":"http://shp.qpic.cn/weixinsrc_pic/pScBR7sbqjOBJomcuvVJ6iacVrbMJaoJZkFUIq4nzQZUIqzTKziam7ibg/"},
-        {"childId":"003","childName":"王爱爱","isBind":"1","cardNum":"12055212","childImg":"http://shp.qpic.cn/weixinsrc_pic/pScBR7sbqjOBJomcuvVJ6iacVrbMJaoJZkFUIq4nzQZUIqzTKziam7ibg/"}
+{
+    "code":"0",
+    "rs":[
+        {
+            "userId":"330101-S000004-S20160160",
+            "userName":"张家维弟弟",
+            "userType":"学生",
+            "classId":"330101-S000004-Y0001-20160004",
+            "className":"托班2010级4班",
+            "cards":[
+                {
+                    "cardId":"0002077972",
+                    "remark":"张家维弟弟1",
+                    "createDate":"2015-09-06 15:26:12"
+                },
+                {
+                    "cardId":"0002094996",
+                    "remark":"张家维弟弟2",
+                    "createDate":"2015-09-06 15:26:12"
+                }
+            ]
+        }
     ]
-  }
-]
+}
+
+©2014 Json.cn All right reserved. 
