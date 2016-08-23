@@ -1,0 +1,35 @@
+{
+    "rs":[
+        {
+            "relate":"本人",
+            "userType":"教师",
+            "userName":"张家维",
+            "userId":"330101-S000004-T000029"
+        },
+        {
+            "relate":"监护人",
+            "cards":[
+                {
+                    "cardId":"0002077972",
+                    "remark":"张家维弟弟1",
+                    "createDate":"20150906152612"
+                },
+                {
+                    "cardId":"0002094996",
+                    "remark":"张家维弟弟2",
+                    "createDate":"20150906152612"
+                }
+            ],
+            "userType":"学生",
+            "userName":"张家维弟弟",
+            "userId":"330101-S000004-S20160160"
+        },
+        {
+            "relate":"监护人",
+            "userType":"学生",
+            "userName":"张家维哥哥",
+            "userId":"330101-S000004-S20160297"
+        }
+    ],
+    "code":0
+}
